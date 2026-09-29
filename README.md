@@ -1,10 +1,10 @@
 ## Hi there 👋 My name is Nathalia Nishimuta. 
 
-  I have two daughters and would like to spend less time taking care of the house.
+  I have two daughters, and I’d like to spend less time doing housework.
 
-- 📚 I’m currently learning how to programming
-- 💁 I’m looking for help with my first job in the area
-- 💎 Fun fact: my daughters have names of precious gemstones: Sapphire and Ruby. 
+- 📚 I’m currently learning how to code
+- 💻 My goal is to become a UX/UI Designer 
+- 💎 Fun fact: my daughters are named after precious gemstones: Safira and Ruby. 
 
 ###
 <div style="display: inline_block"><br>
@@ -13,8 +13,6 @@
   <img align="center" alt="nah-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="nah-React" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="nah-Python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="nah-Csharp" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"">
- </div>
 
 ###
 <div>
