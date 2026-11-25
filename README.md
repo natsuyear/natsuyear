@@ -3,7 +3,7 @@
   I have two daughters, and I’d like to spend less time doing housework.
 
 - 📚 I’m currently learning how to code
-- 💻 My goal is to become a AI Product Engineer
+- 💻 My goal is to become a AI Design Engineer
 - 💎 Fun fact: my daughters are named after precious gemstones: Safira and Ruby. 
 
 ###
